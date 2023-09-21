@@ -1,0 +1,19 @@
+José Manuel Mellado Jiménez:
+- Cara representativa del grupo
+- Creación y mantenimiento del repositorio de GitHub
+- Creación del servidor de Discord para la comunicación entre los miembros del proyecto
+- Información diaria de las tareas que se realizan en cada reunión
+- Creación de la base de datos
+- Desarrollo del backend
+- Configuración de las peticiones en Postman
+
+Rubén Latorra Bas:
+- Cronograma
+- Requerimientos funcionales
+
+José Miguel García Fernández:
+- Diagramas
+- Manual del usuario
+
+Alejandro Rodríguez Armesto:
+- Presentación del proyecto
