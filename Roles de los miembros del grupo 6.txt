@@ -14,3 +14,6 @@ Rubén Latorra Bas:
 José Miguel García Fernández:
 - Diagramas
 - Manual del usuario
+
+Alejandro Rodríguez Armesto:
+- Presentación del proyecto
